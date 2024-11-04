@@ -32,7 +32,7 @@ Regression, Classification, EDA, Feature Engineering, Data Modeling, Supervised 
 - 🔭 I’m currently working on a machine learning model to predict whether a patient is at risk of having a stroke.
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning frameworks.
 - 👯 I’m looking to collaborate on data science projects.
-- 💬 Ask me about my experience in the healthcare industry / my projects in data science!
+- 💬 Ask me about my experience in the healthcare industry or my projects in data science!
 - ⚡ Fun fact: I enjoy drawing and doing creative activities in my free time!
 
 ---
