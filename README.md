@@ -2,7 +2,7 @@
 
 📍 India
 
-**Data Science Aspirant** having over 1.5 years experience in the healthcare industry and proficienct in data analysis, visualization, and machine learning.
+**Data Science Aspirant** having 1 year 9 months experience in the healthcare industry and proficienct in data analysis, visualization, and machine learning.
 
 ---
 
