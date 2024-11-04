@@ -45,3 +45,7 @@ Regression, Classification, EDA, Feature Engineering, Data Modeling, Supervised 
 
 Feel free to reach out for collaboration or networking in data science and analytics!
 
+---
+
+### 🌈 I’m open to new opportunities!
+
