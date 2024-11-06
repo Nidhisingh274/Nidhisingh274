@@ -16,6 +16,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3E65A6?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A1A2F?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![missingno](https://img.shields.io/badge/missingno-525252?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools**:  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
