@@ -37,10 +37,10 @@ Let’s make data dance and AI sing! 🎶📊
 
 ---
 
-### 🔥 AI in Action: Cool & Fun
+### 🔥 AI in Action: Confidence & Power
 
-![Female coder animation](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
-*A fun coding animation featuring a focused female developer, because every AI hero deserves her spotlight!*
+![Confident female data scientist animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+*Focused, powerful, and ready to build AI-driven solutions — that’s the energy I bring.*
 
 ---
 
