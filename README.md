@@ -1,25 +1,28 @@
-## Hi, I'm Nidhi Singh! 📍 India  
-**Data Science & AI Professional | Machine Learning • Deep Learning • Generative AI**
-
-With 1.9 years of research experience in the healthcare domain, I specialize in transforming complex medical data into actionable insights and intelligent AI systems. My background equips me uniquely to bridge the gap between healthcare challenges and cutting-edge AI solutions, enabling impactful innovations that drive better outcomes.
-
-I bring a strong blend of domain knowledge, technical expertise, and a passion for scalable AI — making me a great candidate to contribute fresh perspectives and robust solutions in Data Science, ML Engineering, and AI roles.
+## 👋 Hey there! I’m **Nidhi Singh** from India  
+### Your friendly neighborhood **Data Scientist / ML Engineer / AI Engineer** 🤖✨
 
 ---
 
-### 🚀 Core Expertise
+### 🚀 What I Bring to the Table  
+I turn complex healthcare data into 💡 *actionable insights* and build AI-powered systems that make a difference.  
+With 1.9 years in research, I combine domain expertise with machine learning magic to deliver smart solutions.  
 
-- Supervised & Unsupervised Learning  
-- Deep Learning (ANN, CNN, RNN)  
-- NLP & LLMs (Text Classification, Chatbots, Summarization)  
-- Retrieval Augmented Generation (RAG) Pipelines  
-- LangChain + OpenAI Applications  
-- EDA, Data Wrangling, Feature Engineering  
-- ML Model Evaluation & Deployment
+Let’s make data dance and AI sing! 🎶📊
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Superpowers  
+- Machine Learning: Supervised & Unsupervised models  
+- Deep Learning: CNNs, RNNs & more  
+- NLP & Large Language Models: Chatbots, text summarization, and beyond  
+- Retrieval Augmented Generation (RAG) pipelines  
+- LangChain + OpenAI wizardry  
+- Data Wrangling, EDA & Feature Engineering  
+- Model evaluation & deployment
+
+---
+
+### 💻 Tech Arsenal
 
 | Languages & Libraries | Deep Learning & AI | Generative AI & NLP | Dev & Deployment | Databases & BI Tools |
 |:---------------------:|:------------------:|:-------------------:|:----------------:|:--------------------:|
@@ -27,27 +30,24 @@ I bring a strong blend of domain knowledge, technical expertise, and a passion f
 
 ---
 
-### 📜 Certifications
-
-- [Data Science Professional Certification](https://drive.google.com/file/d/1qmtNpNkWBZX_K12ksXcO4F_PE3nfryNY/view?usp=sharing)  
-- [Google Data Analytics Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/X437QBDKQXBU)  
-- [SQL (Basic) - HackerRank](https://www.hackerrank.com/certificates/a53e4690f142)
-
----
-
-### 🔍 Currently Exploring
-
-- Agentic AI and autonomous decision-making systems
+### 🏆 Certifications (Bragging Rights 🎉)  
+- Data Science Professional Certification  
+- Google Data Analytics Professional  
+- HackerRank SQL (Basic)
 
 ---
 
-### 📫 Let’s Connect
-
-🔗 [LinkedIn](https://www.linkedin.com/in/dddd)  
-💡 Open to **Data Science**, **ML Engineering**, and **AI/GenAI** roles. Let's connect and innovate!
+### 🔭 What’s Cooking in My Lab?  
+Currently exploring the fascinating world of **Agentic AI** — autonomous decision-making systems that act with purpose and creativity. 🚀
 
 ---
 
-### 🎨 Bonus
+### 🤝 Let’s Connect & Create Magic!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dddd)
 
-I merge creativity with logic — building ML pipelines by day, and sketching ideas by night.
+Open to exciting roles in **Data Science**, **ML Engineering**, and **AI/GenAI**.  
+Drop a message or collaborate on some cool projects! 🚀✨
+
+---
+
+✨ _Data wizard by day, idea sketcher by night._ Let’s turn ideas into reality! ✨
