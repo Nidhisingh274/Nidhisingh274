@@ -1,4 +1,4 @@
-## 👋 Hey there! I’m **Nidhi Singh** from India  
+## 👋 Hey there! I’m **Nidhi Singh** 
 ### Your friendly neighborhood **Data Scientist / ML Engineer / AI Engineer** 🤖✨
 
 ---
@@ -45,9 +45,9 @@ Currently exploring the fascinating world of **Agentic AI** — autonomous decis
 ### 🤝 Let's Work Together!  
 I love connecting with fellow data enthusiasts and AI innovators. Whether it’s collaboration, knowledge exchange, or just a friendly chat — reach out anytime!  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhisingh9)  
 
-✨ _Data wizard by day, idea sketcher by night._ Let’s turn ideas into reality! ✨
+---
 
 ### 🌟 Wrapping Up with a Smile
 
