@@ -42,6 +42,10 @@ Let’s make data dance and AI sing! 🎶📊
 ![Confident female data scientist animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 *Focused, powerful, and ready to build AI-driven solutions — that’s the energy I bring.*
 
+
+### 🎉 AI in Action!  
+![Woman Celebrating](https://media.giphy.com/media/3o6Zt7v47O49wtT5Ck/giphy.gif)
+
 ---
 
 ### 🔭 What’s Cooking in My Lab?  
