@@ -1,62 +1,83 @@
-## Hi, I'm Nidhi Singh!
+## Hi, I'm Nidhi Singh! 📍 India  
+**Data Science & AI Professional | Machine Learning • Deep Learning • Generative AI**
 
-📍 India
+With 1.9 years of research experience in the healthcare domain. My background equips me uniquely to bridge the gap between healthcare challenges and cutting-edge AI solutions, enabling impactful innovations that drive better outcomes.
 
-**Data Science Aspirant** having 1 year 9 months experience in the healthcare industry and proficient in data analysis, visualization, and machine learning.
+I bring a strong blend of domain knowledge, technical expertise, and a passion for scalable AI — making me a great candidate to contribute fresh perspectives and robust solutions in Data Science, ML Engineering, and AI roles.
 
 ---
 
-### 🛠 Skills
+### 🚀 Core Expertise
 
-**Languages & Libraries**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3E65A6?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0A1A2F?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![missingno](https://img.shields.io/badge/missingno-525252?style=for-the-badge&logo=python&logoColor=white)
+- Supervised & Unsupervised Learning  
+- Deep Learning (ANN, CNN, RNN)  
+- NLP & LLMs (Text Classification, Chatbots, Summarization)  
+- Retrieval Augmented Generation (RAG) Pipelines  
+- LangChain + OpenAI Applications  
+- EDA, Data Wrangling, Feature Engineering  
+- ML Model Evaluation & Deployment
 
-**Tools**:  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Deep Learning & AI**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)  
+![Transformers](https://img.shields.io/badge/Transformers-6464ff?style=for-the-badge&logo=python&logoColor=white)
+
+**Generative AI & NLP**  
+![LLMs](https://img.shields.io/badge/LLMs-800080?style=for-the-badge&logo=openai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-1188AA?style=for-the-badge&logo=readthedocs&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Gradio](https://img.shields.io/badge/Gradio-3e78b2?style=for-the-badge&logo=gradio&logoColor=white)
+
+**Dev & Deployment**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Databases & BI Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
-
-**Techniques**:  
-Regression, Classification, EDA, Feature Engineering, Data Modeling, Supervised & Unsupervised Learning
 
 ---
 
 ### 📜 Certifications
 
-- [Data Science Professional Certification](https://drive.google.com/file/d/1qmtNpNkWBZX_K12ksXcO4F_PE3nfryNY/view?usp=sharing)
-- [Google Data Analytics Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/X437QBDKQXBU)
-- [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/a53e4690f142)
+- [Data Science Professional Certification](https://drive.google.com/file/d/1qmtNpNkWBZX_K12ksXcO4F_PE3nfryNY/view?usp=sharing)  
+- [Google Data Analytics Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/X437QBDKQXBU)  
+- [SQL (Basic) - HackerRank](https://www.hackerrank.com/certificates/a53e4690f142)
 
 ---
 
-### 🌟 More About Me
+### 🔍 Currently Exploring
 
-- 🔭 I’m currently working on a machine learning model to predict whether a patient is at risk of having a stroke.
-- 🌱 I’m currently learning advanced machine learning techniques and deep learning frameworks.
-- 👯 I’m looking to collaborate on data science projects.
-- 💬 Ask me about my experience in the healthcare industry or my projects in data science!
-- ⚡ Fun fact: I enjoy drawing and doing creative activities in my free time!
+- Agentic AI and autonomous decision-making systems
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let’s Connect
 
-🔗 [LinkedIn](http://www.linkedin.com/in/nidhisingh9)
-
----
-
-Feel free to reach out for collaboration or networking in data science and analytics!
+🔗 [LinkedIn](https://www.linkedin.com/in/nidhisingh9)  
+💡 Open to **Data Science**, **ML Engineering**, and **AI/GenAI** roles. Let's connect and innovate!
 
 ---
 
-### 🌈 I’m open to new opportunities!
+### 🎨 Bonus
+
+I merge creativity with logic — building ML pipelines by day, and sketching ideas by night.
