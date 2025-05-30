@@ -53,4 +53,4 @@ I love connecting with fellow data enthusiasts and AI innovators. Whether it’s
 
 ![AI Girl Dancing](https://media.tenor.com/gDHmnYfImaUAAAAM/happy-happy-happy-happy.gif)
 
-_"When your model performs perfectly on unseen data... and you're ready to take on the world!"_
+_"When your model performs perfectly... and you're ready to take on the world!"_
