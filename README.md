@@ -44,7 +44,8 @@ Let’s make data dance and AI sing! 🎶📊
 
 
 ### 🎉 AI in Action!  
-![Woman Celebrating](https://media.giphy.com/media/3o6Zt7v47O49wtT5Ck/giphy.gif)
+![Celebration](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 
 ---
 
