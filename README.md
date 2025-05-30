@@ -51,6 +51,6 @@ I love connecting with fellow data enthusiasts and AI innovators. Whether it’s
 
 ### 🌟 Wrapping Up with a Smile
 
-![Cool AI Dance](https://media.giphy.com/media/XfWCIcKnDkZyJzBHZ5/giphy.gif)
+![AI Girl Dancing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdjMmN6Ymc5cTFsaGUwZHYyZjhrY3FjbjBtMjdqYnlqYTUwdnljaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGGafcOHmrlQxG0/giphy.gif)
 
 _"When your model performs perfectly on unseen data... and you're ready to take on the world!"_
