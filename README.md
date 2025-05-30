@@ -37,18 +37,6 @@ Let’s make data dance and AI sing! 🎶📊
 
 ---
 
-### 🔥 AI in Action: Confidence & Power
-
-![Confident female data scientist animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-*Focused, powerful, and ready to build AI-driven solutions — that’s the energy I bring.*
-
-
-### 🎉 AI in Action!  
-![Celebration](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-
----
-
 ### 🔭 What’s Cooking in My Lab?  
 Currently exploring the fascinating world of **Agentic AI** — autonomous decision-making systems that act with purpose and creativity. 🚀
 
@@ -60,3 +48,9 @@ I love connecting with fellow data enthusiasts and AI innovators. Whether it’s
 ---
 
 ✨ _Data wizard by day, idea sketcher by night._ Let’s turn ideas into reality! ✨
+
+### 🌟 Wrapping Up with a Smile
+
+![Cool AI Dance](https://media.giphy.com/media/XfWCIcKnDkZyJzBHZ5/giphy.gif)
+
+_"When your model performs perfectly on unseen data... and you're ready to take on the world!"_
