@@ -37,6 +37,13 @@ Let’s make data dance and AI sing! 🎶📊
 
 ---
 
+### 🔥 AI in Action: Cool & Fun
+
+![Female coder animation](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
+*A fun coding animation featuring a focused female developer, because every AI hero deserves her spotlight!*
+
+---
+
 ### 🔭 What’s Cooking in My Lab?  
 Currently exploring the fascinating world of **Agentic AI** — autonomous decision-making systems that act with purpose and creativity. 🚀
 
@@ -44,20 +51,6 @@ Currently exploring the fascinating world of **Agentic AI** — autonomous decis
 
 ### 🤝 Let's Work Together!  
 I love connecting with fellow data enthusiasts and AI innovators. Whether it’s collaboration, knowledge exchange, or just a friendly chat — reach out anytime!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhisingh9)  
-
----
-
-### 🎉 Fun Fact Corner  
-- 🎨 I enjoy sketching AI-inspired art and turning data into visuals  
-- 🎧 Always vibing to lo-fi beats while coding  
-- 🌱 Lifelong learner passionate about AI ethics and fairness  
-
----
-
-### 🎥 AI in Action  
-![AI Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
