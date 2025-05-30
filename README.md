@@ -43,7 +43,7 @@ Currently exploring the fascinating world of **Agentic AI** — autonomous decis
 ---
 
 ### 🤝 Let’s Connect & Create Magic!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dddd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhisingh9)
 
 Open to exciting roles in **Data Science**, **ML Engineering**, and **AI/GenAI**.  
 Drop a message or collaborate on some cool projects! 🚀✨
