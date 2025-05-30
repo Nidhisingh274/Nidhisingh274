@@ -42,11 +42,22 @@ Currently exploring the fascinating world of **Agentic AI** — autonomous decis
 
 ---
 
-### 🤝 Let’s Connect & Create Magic!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhisingh9)
+### 🤝 Let's Work Together!  
+I love connecting with fellow data enthusiasts and AI innovators. Whether it’s collaboration, knowledge exchange, or just a friendly chat — reach out anytime!  
 
-Open to exciting roles in **Data Science**, **ML Engineering**, and **AI/GenAI**.  
-Drop a message or collaborate on some cool projects! 🚀✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidhisingh9)  
+
+---
+
+### 🎉 Fun Fact Corner  
+- 🎨 I enjoy sketching AI-inspired art and turning data into visuals  
+- 🎧 Always vibing to lo-fi beats while coding  
+- 🌱 Lifelong learner passionate about AI ethics and fairness  
+
+---
+
+### 🎥 AI in Action  
+![AI Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
