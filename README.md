@@ -5,7 +5,7 @@
 
 ### 🚀 What I Bring to the Table  
 I turn complex healthcare data into 💡 *actionable insights* and build AI-powered systems that make a difference.  
-With 1.9 years in research, I combine domain expertise with machine learning magic to deliver smart solutions.  
+With more than 1 year in research, I combine domain expertise with machine learning magic to deliver smart solutions.  
 
 Let’s make data dance and AI sing! 🎶📊
 
