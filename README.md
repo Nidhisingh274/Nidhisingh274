@@ -21,15 +21,6 @@ I love making AI useful, reliable, and actually solve problems. 💡✨
 
 ---
 
-### 💻 Tech Arsenal
-
-| AI & Gen AI | ML & DL | Dev & Systems | Data & Tools |
-|-------------|----------|----------------|---------------|
-| LangChain • LangGraph • Groq • OpenAI • Ollama • Hugging Face | scikit-learn • TensorFlow • Keras | FastAPI • Streamlit • Python | Pandas • NumPy • MySQL • Statistics |
-| RAG • Embeddings • FAISS • LLMs | ML models (classification/prediction) | API Development | EDA • Feature Engineering |
-
----
-
 ## 🏆 Certifications
 - Data Science Professional Certification  
 - Google Data Analytics Professional  
