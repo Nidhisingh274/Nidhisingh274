@@ -27,11 +27,6 @@ Currently, I'm exploring advanced multi-agent systems and looking for my next bi
 * [**PDF RAG Retrieval System**](https://github.com/Nidhisingh274/RAG-app-using-Faiss-): Developed a localized, privacy-first document QA system using FAISS and local Ollama embeddings to interact with complex documents.
 * [**Minimal LangGraph SuperBot**](https://github.com/Nidhisingh274/SuperBot-LangGraph-Groq-LLM-Minimal-Agent): Engineered a clean, single-node agent flow with message state management and streaming outputs using LLaMA 3.1.
 
-### 📊 GitHub Activity
-<!-- Broken widgets removed for a cleaner recruiter view. Your green contribution graph below pinned projects will speak for your activity! -->
-
----
-
 ### 📫 Let's Connect
 I'm always open to discussing AI architecture, new LLM papers, or exciting job opportunities. 
 * **LinkedIn:** [linkedin.com/in/nidhisingh9](https://www.linkedin.com/in/nidhisingh9)
