@@ -28,10 +28,11 @@ Currently, I'm exploring advanced multi-agent systems and looking for my next bi
 * [**Minimal LangGraph SuperBot**](https://github.com/Nidhisingh274/SuperBot-LangGraph-Groq-LLM-Minimal-Agent): Engineered a clean, single-node agent flow with message state management and streaming outputs using LLaMA 3.1.
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhisingh274&show_icons=true&theme=radium&hide_border=true" alt="Nidhi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisingh274&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+
+[![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhisingh274&show_icons=true&theme=radium&hide_border=true)](https://github.com/Nidhisingh274)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisingh274&layout=compact&theme=radium&hide_border=true)](https://github.com/Nidhisingh274)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhisingh274&theme=radium&hide_border=true)](https://github.com/Nidhisingh274)
 
 ### 📫 Let's Connect
 I'm always open to discussing AI architecture, new LLM papers, or exciting job opportunities. 
