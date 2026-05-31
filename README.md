@@ -3,7 +3,7 @@
 
 I’m an **AI Engineer** specializing in Generative AI, LLMs, and Agentic workflows. With ~2 years of experience bridging **healthcare and research**, I don't just write API calls to LLMs—I build robust, autonomous AI agents and RAG pipelines that solve actual business problems. 
 
-Currently, I'm exploring advanced multi-agent systems and looking for my next big role as an AI Engineer. 📍 **Targeting: Remote, Noida, or Gurugram.**
+Currently, I'm exploring advanced multi-agent systems and looking for my next big role as an AI Engineer. 
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -28,13 +28,10 @@ Currently, I'm exploring advanced multi-agent systems and looking for my next bi
 * [**Minimal LangGraph SuperBot**](https://github.com/Nidhisingh274/SuperBot-LangGraph-Groq-LLM-Minimal-Agent): Engineered a clean, single-node agent flow with message state management and streaming outputs using LLaMA 3.1.
 
 ### 📊 GitHub Activity
+<!-- Broken widgets removed for a cleaner recruiter view. Your green contribution graph below pinned projects will speak for your activity! -->
 
-[![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhisingh274&show_icons=true&theme=radium&hide_border=true)](https://github.com/Nidhisingh274)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisingh274&layout=compact&theme=radium&hide_border=true)](https://github.com/Nidhisingh274)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhisingh274&theme=radium&hide_border=true)](https://github.com/Nidhisingh274)
+---
 
 ### 📫 Let's Connect
 I'm always open to discussing AI architecture, new LLM papers, or exciting job opportunities. 
 * **LinkedIn:** [linkedin.com/in/nidhisingh9](https://www.linkedin.com/in/nidhisingh9)
-* **Email:** [Add your email here]
